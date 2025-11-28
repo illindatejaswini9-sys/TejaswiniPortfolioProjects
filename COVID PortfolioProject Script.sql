@@ -1,4 +1,4 @@
--- MyStrongPass123
+
 select * from PortfolioProjects.. CovidVaccinations
 order by 3,4
 
